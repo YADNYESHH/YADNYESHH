@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @YADNYESHH
 - 👀 I’m Machine Learning Engineer
 - 🌱 I’m interested in AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ypuri505@gmail.com
+- 📫 How to reach me Yadnyeshgosavi5@gmail.com
